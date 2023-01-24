@@ -1,7 +1,3 @@
-
-> d2@1.0.0 run
-> node index.js
-
 title: d2 spreadsheet roll wishlist
 description: list of community driven perks from d2 spreadsheet
 // Arc Logic - PVE
